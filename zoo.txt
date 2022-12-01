@@ -1,3 +1,5 @@
 1) Elephant
 2) Tiger
 3) Crocodile
+4) Ostrich
+5) Giraffe
